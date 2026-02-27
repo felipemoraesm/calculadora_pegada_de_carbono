@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1708900942 source:c:\users\gusta\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"login.h"
+	"Leitura.h"
+	"tratamento_erro.h"
+	"parametros_individuo.h"
+	"parametros_empresa.h"
+	"output.h"
+	"individual.h"
+	"empresarial.h"
+
+1708900532 c:\users\gusta\desktop\final\login.h
+
+1708900498 c:\users\gusta\desktop\final\leitura.h
+
+1708900728 c:\users\gusta\desktop\final\tratamento_erro.h
+
+1708900651 c:\users\gusta\desktop\final\parametros_individuo.h
+
+1708900712 c:\users\gusta\desktop\final\parametros_empresa.h
+
+1708900458 c:\users\gusta\desktop\final\individual.h
+
+1708900308 c:\users\gusta\desktop\final\empresarial.h
+
+1708900942 c:\users\gusta\desktop\final\output.h
+
+1708900942 source:c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"login.h"
+	"Leitura.h"
+	"tratamento_erro.h"
+	"parametros_individuo.h"
+	"parametros_empresa.h"
+	"output.h"
+	"individual.h"
+	"empresarial.h"
+
+1708900532 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\login.h
+
+1708900498 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\leitura.h
+
+1708900728 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\tratamento_erro.h
+
+1708900651 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\parametros_individuo.h
+
+1708900712 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\parametros_empresa.h
+
+1708900942 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\output.h
+
+1708900458 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\individual.h
+
+1708900308 c:\users\gusta\desktop\faculdade\período 2\algoritmos e programação ii\projeto final\calculadora de pegada de carbono ap2\empresarial.h
+
